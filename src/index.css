@@ -1,0 +1,12 @@
+body {
+  padding: 50px;
+  background-color: #DDD9CD;
+  text-align: center;
+
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+    text-align: center;
+}
